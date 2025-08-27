@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working putting together a website to display my newfound coding abilities!
+- 🌱 I’m currently learning python through Freecodecamps Certified Full Stack Developer course 
+- 👯 I’m looking to collaborate on anything and everything within my abilities! I am confident in HTML, CSS, and JavaScript 
+- 🤔 I will take any advice from experienced developers
+- 💬 Ask me about why I started coding, or the app I hope to develop
+- 📫 How to reach me: arieltmorton@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am a new mom
 <!--
 **houstonair3/Houstonair3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
